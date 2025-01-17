@@ -66,9 +66,9 @@ The model is trained on a publicly available **Brain Tumor MRI Dataset** from Ka
   
 ### Final Model Evaluation
 
-1. **Training Accuracy**: __%
-2. **Validation Accuracy**: __%
-3. **Test Accuracy**: __%
+1. **Training Accuracy**: 99.28%
+2. **Validation Accuracy**: 98.02%
+3. **Test Accuracy**: 97.71%
 
 ### Example Inference
 
